@@ -1,0 +1,14 @@
+<Playlist>
+    <Brano>
+        <codice>br1</codice>
+        <titolo>Brano1</titolo>
+        <artista>Artista1</artista>
+        <durata>200</durata>
+    </Brano>
+    <Brano>
+        <codice>br2</codice>
+        <titolo>Brano2</titolo>
+        <artista>Artista2</artista>
+        <durata>170</durata>
+    </Brano>
+</Playlist>

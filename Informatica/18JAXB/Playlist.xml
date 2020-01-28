@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Playlist>
+    <Brano artista="Artista3" codice="br3" durata="200" titolo="Brano3"/>
+    <Brano artista="Artista4" codice="br4" durata="230" titolo="Brano4"/>
+</Playlist>
