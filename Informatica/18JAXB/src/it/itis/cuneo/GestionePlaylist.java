@@ -7,7 +7,7 @@ import java.io.File;
 
 public class GestionePlaylist {
 
-    public static final String PATH_NAME = "D:\\Info\\Esercizi\\_DaConsegnare\\Informatica\\19JAXB\\Playlist.xml";
+    public static final String PATH_NAME = "D:\\Info\\Esercizi\\_DaConsegnare\\Informatica\\18JAXB\\Playlist.xml";
     public static void main(String[] args) {
 
         try{
