@@ -1,0 +1,32 @@
+<?xml version = "1.0" encoding = "UTF-8" standalone = "yes"?>
+<Biciclette>
+    <Bicicletta>
+        <Telaio>ataca</Telaio>
+        <Freno>shimano</Freno>
+        <Cambio>campagnolo</Cambio>
+        <Ruote>
+            <RuotaAnteriore>anteriore</RuotaAnteriore>
+            <RuotaPosteriore>posteriore</RuotaPosteriore>
+        </Ruote>
+    </Bicicletta>
+
+    <Bicicletta>
+        <Telaio>ataca</Telaio>
+        <Freno>shimano</Freno>
+        <Cambio>campagnolo</Cambio>
+        <Ruote>
+            <RuotaAnteriore>anteriore</RuotaAnteriore>
+            <RuotaPosteriore>posteriore</RuotaPosteriore>
+        </Ruote>
+    </Bicicletta>
+
+    <Bicicletta>
+        <Telaio>ataca</Telaio>
+        <Freno>shimano</Freno>
+        <Cambio>campagnolo</Cambio>
+        <Ruote>
+            <RuotaAnteriore>anteriore</RuotaAnteriore>
+            <RuotaPosteriore>posteriore</RuotaPosteriore>
+        </Ruote>
+    </Bicicletta>
+</Biciclette>
