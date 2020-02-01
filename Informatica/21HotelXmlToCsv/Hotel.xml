@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Hotel nome="Hotel">
+    <Camera Nome="Camera1">
+        <Bagno>Si</Bagno>
+        <Letto>2</Letto>
+        <Vista>Mare</Vista>
+    </Camera>
+    <Camera Nome="Camera2">
+        <Bagno>Si</Bagno>
+        <Letto>1</Letto>
+        <Vista>Mare</Vista>
+    </Camera>
+    <Camera Nome="Camera3">
+        <Bagno>Si</Bagno>
+        <Letto>4</Letto>
+        <Vista>Mare</Vista>
+    </Camera>
+</Hotel>
