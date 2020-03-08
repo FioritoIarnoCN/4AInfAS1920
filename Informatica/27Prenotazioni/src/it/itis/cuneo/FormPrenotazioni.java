@@ -151,6 +151,5 @@ public class FormPrenotazioni extends JFrame implements ActionListener{
 
     public static void main(String[] args){
         FormPrenotazioni form = new FormPrenotazioni();
-        form.setVisible(true);
     }
 }
